@@ -1,10 +1,17 @@
-## Alexa Voice Service - Python
+# Alexa Voice Service SDK to Raspberry Pi - Python
 
 This script is a tools to run Alexa Voice Service in Python on Raspberry Pi allowing what use GPIOS to Indicate states of Alexa Speaking, and run as service. 
 
 To run this tool, you have run the AVS SDK OFICIAL before.
 
-# How to use
+## Requeriments
+
+OS: Raspbian Buster
+Last SDK of AVS instaled. How to here: https://developer.amazon.com/en-US/docs/alexa/alexa-voice-service/get-started-with-alexa-voice-service-speakers.html
+Speaker
+Microphone
+
+## How to use
 
 After installed AVS DEVICE SDK in you Raspberry Pi, run this coomands bellow:
 ```
