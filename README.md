@@ -7,8 +7,12 @@ To run this tool, you have run the AVS SDK OFICIAL before.
 ## Requeriments
 
 OS: Raspbian Buster
-Last SDK of AVS instaled. How to here: https://developer.amazon.com/en-US/docs/alexa/alexa-voice-service/get-started-with-alexa-voice-service-speakers.html
+
+Last SDK of AVS instaled. 
+How to here: https://developer.amazon.com/en-US/docs/alexa/alexa-voice-service/get-started-with-alexa-voice-service-speakers.html
+
 Speaker
+
 Microphone
 
 ## How to use
