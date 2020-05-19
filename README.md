@@ -7,17 +7,21 @@ To run this tool, you have run the AVS SDK OFICIAL before.
 # How to use
 
 After installed AVS DEVICE SDK in you Raspberry Pi, run this coomands bellow:
-
+```
 git clone https://github.com/rpf16rj/alexa_voice_service_sdk_raspberry_python.git
-
+```
+```
 sudo bash /home/pi/Assistants-Pi/scripts/prep-system.sh
-
+```
+```
 sudo bash /home/pi/Assistants-Pi/scripts/service-installer.sh
-
+```
+```
 systemctl enable alexa.service
-
+```
+```
 systemctl start alexa.service
-
+```
 Then the Alexa Voice Service is running at service in yout Raspberry and you can listening a song indicating what AVS is started. 
 In file /home/pi/Assistants-Pi/Alexa/config.yml you can change your GPIO leds. 
 
